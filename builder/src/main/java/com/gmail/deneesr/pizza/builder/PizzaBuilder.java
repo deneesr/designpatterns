@@ -1,6 +1,6 @@
-package com.gmail.deneesr.builder;
+package com.gmail.deneesr.pizza.builder;
 
-import com.gmail.deneesr.product.Pizza;
+import com.gmail.deneesr.pizza.product.Pizza;
 
 /**
  * Abstract Builder

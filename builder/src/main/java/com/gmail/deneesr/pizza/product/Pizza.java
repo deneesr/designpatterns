@@ -1,4 +1,4 @@
-package com.gmail.deneesr.product;
+package com.gmail.deneesr.pizza.product;
 
 /**
  * Product

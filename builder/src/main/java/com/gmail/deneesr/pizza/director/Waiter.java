@@ -1,7 +1,7 @@
-package com.gmail.deneesr.director;
+package com.gmail.deneesr.pizza.director;
 
-import com.gmail.deneesr.builder.PizzaBuilder;
-import com.gmail.deneesr.product.Pizza;
+import com.gmail.deneesr.pizza.builder.PizzaBuilder;
+import com.gmail.deneesr.pizza.product.Pizza;
 
 /**
  * Director

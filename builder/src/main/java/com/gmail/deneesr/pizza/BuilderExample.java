@@ -1,9 +1,9 @@
-package com.gmail.deneesr;
+package com.gmail.deneesr.pizza;
 
-import com.gmail.deneesr.builder.HawaiianPizzaBuilder;
-import com.gmail.deneesr.builder.PizzaBuilder;
-import com.gmail.deneesr.director.Waiter;
-import com.gmail.deneesr.product.Pizza;
+import com.gmail.deneesr.pizza.builder.HawaiianPizzaBuilder;
+import com.gmail.deneesr.pizza.builder.PizzaBuilder;
+import com.gmail.deneesr.pizza.director.Waiter;
+import com.gmail.deneesr.pizza.product.Pizza;
 
 /**
  * A customer ordering a pizza.
